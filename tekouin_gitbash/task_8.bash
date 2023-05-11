@@ -1,0 +1,3 @@
+cd /tmp
+
+file tekouin
